@@ -1,1 +1,1 @@
-# superstore-sails-analysis
+# superstore-sales-analysis
